@@ -1,0 +1,21 @@
+1. /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+2. brew install python3
+
+3. python --version
+
+4. pip --version
+
+5. pip install virtualenv
+
+6. cd softwareEngineering/
+
+7. virtualenv venv
+
+8. source venv/bin/activate
+
+9. brew install nodejs
+
+10. pip install NPM
+
+
